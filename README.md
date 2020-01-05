@@ -5,9 +5,9 @@ SignUp through the main application choosing any unique username (The Applicatio
 Enter your role (OLD or YOUNG)
 
 Search someone through various filters.
-Send them request to let you take care of them.
-Get Notification when someone request to take care of you (or let you take care of them, which ever is the case.)
-Write review for anyone and get reviewed by anyone.
+ || Send them request to let you take care of them.
+ || Get Notification when someone request to take care of you (or let you take care of them, which ever is the case.)
+ || Write review for anyone and get reviewed by anyone.
 
 Lets care to share our time and make world a better place.
 
